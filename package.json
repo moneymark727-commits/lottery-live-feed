@@ -1,7 +1,7 @@
 {
   "name": "lottery-live-feed",
   "version": "1.0.0",
-  "description": "Scrapes Powerball and Mega Millions for live data",
+  "description": "Official lottery data feed",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
