@@ -1,0 +1,16 @@
+{
+  "name": "lottery-live-feed",
+  "version": "1.0.0",
+  "description": "Scrapes Powerball and Mega Millions for live data",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "node-fetch": "^3.3.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
