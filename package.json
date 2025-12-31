@@ -2,9 +2,9 @@
   "name": "lottery-live-feed",
   "version": "1.0.0",
   "description": "Official lottery data feed",
-  "main": "server.js",
+  "main": "getpowerball.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node getpowerball.js"
   },
   "dependencies": {
     "express": "^4.19.2",
